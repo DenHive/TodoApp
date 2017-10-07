@@ -1,5 +1,6 @@
 # TodoApp
-A simple Android app to demo MVP pattern
+A simple Android project to learn MVP pattern. Inspired by [android blueprints](https://github.com/googlesamples/android-architecture). It's still
+work in progress.
 
 ## License
 
